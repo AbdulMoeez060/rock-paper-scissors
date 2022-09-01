@@ -4,8 +4,20 @@
 *{
     font-family: 'Roboto', sans-serif;
     margin: 0;
+    /* background: #000000;  /* fallback for old browsers 
+    background: -webkit-linear-gradient(to right, #434343, #000000);  
+    background: linear-gradient(to right, #434343, #000000);  */
+    /* background: #c2e59c;  
+    background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  
+    background: linear-gradient(to right, #64b3f4, #c2e59c);  */
+    /* background: #2c3e50;  
+    background: -webkit-linear-gradient(to right, #3498db, #2c3e50); 
+    background: linear-gradient(to right, #3498db, #2c3e50);  */
+    background-color: #574f7d;
+
 }
 h1:nth-child(1){
     text-align: center;
     margin-top: 20px;
+    color: #e0f0ea;
 }
